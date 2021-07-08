@@ -1,7 +1,7 @@
 {
   "name": "3d-periodic-table",
   "homepage":"http://model.irfanstudy.club"
-  "version": "0.1.0",
+  "version":"0.1.0",
   "private": true,
   "dependencies": {
     "@react-spring/three": "^9.0.0-rc.3",
