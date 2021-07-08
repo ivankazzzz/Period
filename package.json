@@ -1,6 +1,5 @@
 {
   "name": "3d-periodic-table",
-  "homepage":"http://model.irfanstudy.club"
   "version":"0.1.0",
   "private": true,
   "dependencies": {
